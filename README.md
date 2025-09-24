@@ -37,7 +37,6 @@ To my joy, my desire was not wrong. At first I studied as a programmer, but then
   𖦹 I want to get more than one education.
  ㅤ
   <!-- spotify and more --> 
-  <h4 align="center">Contact and another</h4>
   <div align="center"> 
 
   <a href="https://mail.google.com/mail/?view=cm&to=marinmarina2006@gmail.com" target="_blank">
