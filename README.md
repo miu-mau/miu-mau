@@ -33,8 +33,9 @@ To my joy my desire was not wrong, at first I studied as a programmer, but then 
 
 <!-- My Tech Stack -->
 
-
-<h3 align="center">My Tech Stack</h3>
+ <br clear="all"/>
+ <br/>
+ <h3 align="center">My Tech Stack</h3>
 
 <br/>
 
