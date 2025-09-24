@@ -33,6 +33,7 @@ To my joy, my desire was not wrong. At first I studied as a programmer, but then
  𖦹 I want to get more than one education.
  ㅤ
   <!-- spotify and more --> 
+  **Conect info and another**
   <div align="center"> 
   <a href="https://mail.google.com/mail/?view=cm&to=marinmarina2006@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
@@ -62,7 +63,7 @@ To my joy, my desire was not wrong. At first I studied as a programmer, but then
 <br/>
 
 <div align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,golang,grpc,postgresql,mysql,docker,wsl,html,css,npm,postman,python,jupyter,wsl,&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,golang,grpc,postgresql,mysql,docker,wsl,html,css,npm,postman,python,jupyter&theme=dark" />
 </div>
 <br/>
 
