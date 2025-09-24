@@ -5,6 +5,29 @@
 
 </br>
 
+<div align="center">
+<a href="https://github.com/miu-mau">
+  <img width="180px" 
+       src="https://komarev.com/ghpvc/?username=miu-mau&label=Profile%20views&color=000000&style=for-the-badge" 
+       alt="Profile views"
+       title="Total views"/> 
+</a>
+<a href="https://api.github-star-counter.workers.dev/user/miu-mau">
+  <img width="115px" 
+       alt="stars" 
+       title="Total stars" 
+       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/miu-mau" /> 
+</a>
+<a href="https://github.com/miu-mau?tab=followers">
+  <img width="150px" 
+       alt="followers" 
+       title="Followers on GitHub" 
+       src="https://custom-icon-badges.herokuapp.com/github/followers/miu-mau?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+</a>
+</div>
+
+</br>
+
 <img src="./assets/hi_my_name.png" width=330 align="left">
 <div align="center">
 
@@ -31,7 +54,7 @@ To my joy my desire was not wrong, at first I studied as a programmer, but then 
  𖦹 I want to get more than one education. </br>
 
 &nbsp;&nbsp;
-
+<br clear="all"/>
 <div align="center">
   <h3>Contact and other</h3>
   <a href="https://open.spotify.com/user/31roy6muodncuoboe7ycdauitcoq?si=e0c571563d4642ba" target="_blank">
@@ -42,9 +65,20 @@ To my joy my desire was not wrong, at first I studied as a programmer, but then 
   </a>
 </div>
 
-<!-- My Tech Stack -->
+<!-- github status-->
+<h3 align="center">
+<img src="./assets/icons/github-white.svg" width=18>
+ Github Status 
+<img src="./assets/icons/github-black.svg" width=22>
+</h3>
+<br>
 
- <br clear="all"/>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=miu-mau&theme=graywhite&hide_border=true&locale=eng&mode=weekly)](https://git.io/streak-stats)
+</div>
+
+<!-- My Tech Stack -->
  <br/>
  <h3 align="center">My Tech Stack</h3>
 
