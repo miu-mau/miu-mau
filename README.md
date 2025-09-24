@@ -29,7 +29,7 @@ To my joy, my desire was not wrong. At first I studied as a programmer, but then
 
 <!-- A Little More About Me -->
 <div style="clear: both;"></div>
-<h3 align="center">A Little More About Me</h3>
+<h4 align="center">A Little More About Me</h4>
 
   𖦹 I enjoy being around more experienced people.</br>
   𖦹 My hobby is photography. </br>
