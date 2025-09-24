@@ -12,9 +12,14 @@
 
 <div align="justify">
 
-My name is Marina Harutyunyan and I'm a student of `Backend-developer` at the `ITHUB academy`. My immersion in this field began spontaneously: closer to 15, when passing exams and choosing a future profession I stopped at IT, although in my circle and family no one did it, I still felt sincere interest in it and risked to do it. 
+I’m a student of `Systems Analysis and Development` at the `Federal Institute of Science and Technology of Ceará` **(IFCE)**.  
+My journey in technology started early: at the age of 14, I began programming small 3D games in Unity, and soon after, I immersed myself in the world of 2D games using GameMaker.  
+At 15, I discovered my creative side and worked as a freelance graphic designer, which also fueled my passion for interfaces and visual aesthetics.
 
-To my joy, my desire was not wrong. At first I studied as a programmer, but then decided that for the moment `Back-end` will be more interesting for me. Now I’m 19 years old and I’m in my fourth year of college and in the future I’m going to go to university to increase my knowledge and can get more education.
+When I turned 18 and entered college, I fully dove into programming.  
+Since then, I have been dedicating my time to studying development in depth, with a special focus on `Fullstack Web Development`.  
+Although I study the complete ecosystem, my real strength and the area I enjoy exploring the most is `Front-End`, where I can combine logic, creativity, and design.
+
 
 </div>
 </br>
