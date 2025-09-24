@@ -25,7 +25,7 @@ To my joy, my desire was not wrong. At first I studied as a programmer, but then
 <img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
 
 <!-- A Little More About Me -->
-<div align="center">
+<div>
  <div style="display:inline-block; text-align:left; max-width:650px; width:100%;">
   <h3 align="center">A Little More About Me</h3>
 
