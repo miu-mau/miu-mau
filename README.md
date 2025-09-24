@@ -12,9 +12,9 @@
 
 <div align="justify">
 
-My name is Marina Harutyunyan and I'm a student of `Backend-developer` at the `ITHUB academy`. My immersion in this field began spontaneously: closer to 15, when passing exams and choosing a future profession I stopped at IT, although in my circle and family no one did it, I still felt sincere interest in it and risked to do it. 
+My name is Marina Arutyunyan and I am a student «Backend-developer» at the ITHUB academy. My dive into this area started spontaneously: closer to 15, when I was taking exams and choosing a future profession, I stopped at IT, although in my circle and family no one had ever done it, I still felt sincere interest in it and risked doing it and actually very happy about it. 
 
-To my joy, my desire was not wrong. At first I studied as a programmer, but then decided that for the moment `Back-end` will be more interesting for me. Now I’m 19 years old and I’m in my fourth year of college and in the future I’m going to go to university to increase my knowledge and can get more education.Although I study the complete ecosystem, my real strength and the area I enjoy exploring the most is Front-End, where I can combine logic, creativity, and design.
+As I said, fortunately for me, my wish was not wrong. At first I studied programming, but then I decided that for the moment «Backend» would be more interesting for me and I changed my major. Now I’m 19 years old and I am in my fourth year of college, and in the future I am going to go to university to expand my knowledge and get more education. I am quite ambitious and hope that in the future I will be an excellent specialist!
 
 </div>
 </br>
