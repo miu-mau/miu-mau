@@ -19,21 +19,20 @@ To my joy my desire was not wrong, at first I studied as a programmer, but then 
 </div>
 </br>
 
-
-<img align="right" alt="pic" width="300" src="./assets/mycum.png"></br>
-
 <!-- A Little More About Me -->
  <h3 align="center">
   A Little More About Me 
  </h3>
+
+<img align="right" alt="pic" width="260" src="./assets/mycum.png"></br>
 
  𖦹 I enjoy being around more experienced people.</br>
  𖦹 My hobby is photography. </br>
  𖦹 I know three languages, and I'm learning the fourth one. </br>
  𖦹 I want to get more than one education </br>
 
-<h3 align="center">Contact and other</h3>
 <div align="center">
+  <h3>Contact and other</h3>
   <a href="https://open.spotify.com/user/31roy6muodncuoboe7ycdauitcoq?si=e0c571563d4642ba" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-11-432546.png?f=webp" width="40px" />
   </a>
