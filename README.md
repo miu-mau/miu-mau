@@ -43,8 +43,6 @@ To my joy my desire was not wrong, at first I studied as a programmer, but then 
 </div>
 
 <!-- My Tech Stack -->
-
- <br clear="all"/>
  <br/>
  <h3 align="center">My Tech Stack</h3>
 
