@@ -25,13 +25,17 @@ To my joy, my desire was not wrong. At first I studied as a programmer, but then
 <img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
 
 <!-- A Little More About Me -->
- <h3 align="center">A Little More About Me</h3>
+<div align="center">
+ <div style="display:inline-block; text-align:left; max-width:650px; width:100%;">
+  <h3 align="center">A Little More About Me</h3>
 
- 𖦹 I enjoy being around more experienced people.</br>
- 𖦹 My hobby is photography. </br>
- 𖦹 I know three languages, and I'm learning the fourth one. </br>
- 𖦹 I want to get more than one education.
- ㅤ
+  𖦹 I enjoy being around more experienced people.</br>
+  𖦹 My hobby is photography. </br>
+  𖦹 I know three languages, and I'm learning the fourth one. </br>
+  𖦹 I want to get more than one education.
+  ㅤ
+ </div>
+</div>
   <!-- spotify and more --> 
   <h4 align="center">Conect info and another</h4>
   <div align="center"> 
