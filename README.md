@@ -22,7 +22,7 @@ To my joy, my desire was not wrong. At first I studied as a programmer, but then
 
 
 <!-- Gif  -->
-<img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
+<img align="right" alt="capa-Sobre" width="300" src="./assets/mycunderstanm.png"></br>
 
 <!-- A Little More About Me -->
  <h3 align="center">A Little More About Me</h3>
