@@ -1,6 +1,6 @@
 <!-- Banner -->
 <a href="https://github.com/miu-mau">
-  <img src="./assets/unity.gif" alt="Gif"  style="width:100%; height:auto"/>
+  <img src="./assets/unity.gif" alt="Gif" width="100%"/>
 </a>
 
 </br>
