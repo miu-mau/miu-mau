@@ -33,15 +33,12 @@ To my joy my desire was not wrong, at first I studied as a programmer, but then 
 
 <!-- My Tech Stack -->
 
-<h3 align="center">
- <img src="./assets/icons/stack-white.svg" width=17>
- My Tech Stack
- <img src="./assets/icons/stack-black.svg" width=20>
-</h3>
+
+<h3 align="center">My Tech Stack</h3>
 
 <br/>
 
 <div align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,golang,grpc,postgresql,mysql,docker,wsl,html,cs,npm,postman,python&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,golang,grpc,postgresql,mysql,docker,wsl,html,css,npm,postman,python&theme=dark" />
 </div>
 <br/>
