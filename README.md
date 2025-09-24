@@ -25,20 +25,19 @@ To my joy, my desire was not wrong. At first I studied as a programmer, but then
 <img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
 
 <!-- A Little More About Me -->
-<div align="left">
-  <h3 align="center">A Little More About Me</h3>
+ <h3 align="center">A Little More About Me</h3>
 
   𖦹 I enjoy being around more experienced people.</br>
   𖦹 My hobby is photography. </br>
   𖦹 I know three languages, and I'm learning the fourth one. </br>
   𖦹 I want to get more than one education.
-  ㅤ
-</div>
+ ㅤ
   <!-- spotify and more --> 
-  <h4 align="center">Conect info and another</h4>
+  <h4 align="center">Contact and another</h4>
   <div align="center"> 
+
   <a href="https://mail.google.com/mail/?view=cm&to=marinmarina2006@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="40px"/>
   </a>
   <a href="https://open.spotify.com/user/31roy6muodncuoboe7ycdauitcoq?si=e0c571563d4642ba" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-11-432546.png?f=webp" width="40px" />
@@ -48,6 +47,7 @@ To my joy, my desire was not wrong. At first I studied as a programmer, but then
 
 </div>
 </br>
+
 
 
 
