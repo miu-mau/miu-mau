@@ -28,11 +28,8 @@ To my joy, my desire was not wrong. At first I studied as a programmer, but then
 <img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
 
 <!-- A Little More About Me -->
- <h3 align="center">
-  <img src="./assets/icons/user-white.svg" width=15>
-  A Little More About Me 
-  <img src="./assets/icons/user-black.svg" width=15>
- </h3>
+<div style="clear: both;"></div>
+<h3 align="center">A Little More About Me</h3>
 
   𖦹 I enjoy being around more experienced people.</br>
   𖦹 My hobby is photography. </br>
