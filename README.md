@@ -30,18 +30,16 @@ As I said, fortunately for me, my wish was not wrong. At first I studied program
 <img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
 
 <!-- A Little More About Me -->
-<div style="clear: both;"></div>
+<img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
 
-<div align="left">
-  <h3 align="center">A Little More About Me</h3>
-  <div align="left">
-    𖦹 I enjoy being around more experienced people.</br>  
-    𖦹 My hobby is photography. </br>  
-    𖦹 I know three languages, and I'm learning the fourth one. </br>  
-    𖦹 I want to get more than one education.  
-  </div>
-</div>
- ㅤ
+<!-- A Little More About Me -->
+ <h3 align="center">A Little More About Me</h3>
+
+ 𖦹 I enjoy being around more experienced people.</br>
+ 𖦹 My hobby is photography. </br>
+ 𖦹 I know three languages, and I'm learning the fourth one. </br>
+ 𖦹 I want to get more than one education.
+ 
   <!-- spotify and more --> 
   <h4 align="center">Contact and another</h4>
   <div align="center"> 
