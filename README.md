@@ -13,21 +13,22 @@
 
 <div align="justify">
 
-I am a student of `Backend-developer` at the `ITHUB academy`. My immersion in this field began spontaneously: closer to 15, when passing exams and choosing a future profession I stopped at IT, although in my circle and family no one did it, I still felt sincere interest in it and risked to do it. 
+My names is Marina Harutyunyan and I'm a student of `Backend-developer` at the `ITHUB academy`. My immersion in this field began spontaneously: closer to 15, when passing exams and choosing a future profession I stopped at IT, although in my circle and family no one did it, I still felt sincere interest in it and risked to do it. 
 
 To my joy my desire was not wrong, at first I studied as a programmer, but then decided that for the moment `Back-end` will be more interesting for me. Now I’m 19 years old and I’m in my fourth year of college and in the future I’m going to go to university to increase my knowledge and can get more education.
 </div>
 </br>
 
 <!-- A Little More About Me -->
+<br clear="all"/>
 <h3 align="center">A Little More About Me</h3>
 
-<img align="right" alt="pic" width="260" src="./assets/mycunderstanm.png"></br>
+<img align="right" alt="pic" width="240" src="./assets/mycunderstanm.png">
 
  𖦹 I enjoy being around more experienced people.</br>
  𖦹 My hobby is photography. </br>
  𖦹 I know three languages, and I'm learning the fourth one. </br>
- 𖦹 I want to get more than one education </br>
+ 𖦹 I want to get more than one education. </br>
 
 &nbsp;&nbsp;
 
