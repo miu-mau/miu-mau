@@ -30,8 +30,8 @@ To my joy, my desire was not wrong. At first I studied as a programmer, but then
 <!-- A Little More About Me -->
 <div style="clear: both;"></div>
 
-<div align="center">
-  <h4>A Little More About Me</h4>
+<div align="left">
+  <h4 align="center">A Little More About Me</h4>
   <div align="left">
     𖦹 I enjoy being around more experienced people.</br>  
     𖦹 My hobby is photography. </br>  
