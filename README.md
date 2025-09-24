@@ -5,7 +5,7 @@
 
 </br>
 
-<img src="./assets/hi_my_name.jpg" width=330 align="left">
+<img src="./assets/hi_my_name.png" width=330 align="left">
 <div align="center">
 
 **Who Am I?**
