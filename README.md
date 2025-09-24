@@ -52,6 +52,6 @@ To my joy my desire was not wrong, at first I studied as a programmer, but then 
 <br/>
 
 <div align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,golang,grpc,postgresql,mysql,docker,wsl,html,css,npm,postman,python&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,golang,grpc,postgresql,mysql,docker,wsl,html,css,npm,postman,python,jupyter,wsl,&theme=dark" />
 </div>
 <br/>
