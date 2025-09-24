@@ -29,12 +29,16 @@ To my joy, my desire was not wrong. At first I studied as a programmer, but then
 
 <!-- A Little More About Me -->
 <div style="clear: both;"></div>
-<h4 align="center">A Little More About Me</h4>
 
-  𖦹 I enjoy being around more experienced people.</br>
-  𖦹 My hobby is photography. </br>
-  𖦹 I know three languages, and I'm learning the fourth one. </br>
-  𖦹 I want to get more than one education.
+<div align="center">
+  <h4>A Little More About Me</h4>
+  <div align="left">
+    𖦹 I enjoy being around more experienced people.</br>  
+    𖦹 My hobby is photography. </br>  
+    𖦹 I know three languages, and I'm learning the fourth one. </br>  
+    𖦹 I want to get more than one education.  
+  </div>
+</div>
  ㅤ
   <!-- spotify and more --> 
   <div align="center"> 
