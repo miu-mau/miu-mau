@@ -33,7 +33,7 @@ As I said, fortunately for me, my wish was not wrong. At first I studied program
 <div style="clear: both;"></div>
 
 <div align="left">
-  <h4 align="center">A Little More About Me</h4>
+  <h3 align="center">A Little More About Me</h3>
   <div align="left">
     𖦹 I enjoy being around more experienced people.</br>  
     𖦹 My hobby is photography. </br>  
@@ -43,6 +43,7 @@ As I said, fortunately for me, my wish was not wrong. At first I studied program
 </div>
  ㅤ
   <!-- spotify and more --> 
+  <h4 align="center">Contact and another</h4>
   <div align="center"> 
 
   <a href="https://mail.google.com/mail/?view=cm&to=marinmarina2006@gmail.com" target="_blank">
