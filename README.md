@@ -20,10 +20,9 @@ To my joy my desire was not wrong, at first I studied as a programmer, but then 
 </br>
 
 <!-- A Little More About Me -->
-<br clear="all"/>
-<h3 align="center">A Little More About Me</h3>
-
 <img align="right" alt="pic" width="240" src="./assets/mycunderstanm.png">
+
+<h3 align="center">A Little More About Me</h3>
 
  𖦹 I enjoy being around more experienced people.</br>
  𖦹 My hobby is photography. </br>
@@ -31,7 +30,7 @@ To my joy my desire was not wrong, at first I studied as a programmer, but then 
  𖦹 I want to get more than one education. </br>
 
 &nbsp;&nbsp;
-
+<br clear="all"/>
 <div align="center">
   <h3>Contact and other</h3>
   <a href="https://open.spotify.com/user/31roy6muodncuoboe7ycdauitcoq?si=e0c571563d4642ba" target="_blank">
