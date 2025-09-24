@@ -26,7 +26,7 @@ To my joy, my desire was not wrong. At first I studied as a programmer, but then
 
 <!-- A Little More About Me -->
 <div>
- <div style="display:inline-block; text-align:left; max-width:650px; width:100%;">
+ <div>
   <h3 align="center">A Little More About Me</h3>
 
   𖦹 I enjoy being around more experienced people.</br>
