@@ -23,7 +23,7 @@ To my joy my desire was not wrong, at first I studied as a programmer, but then 
 <br clear="all"/>
 <h3 align="center">A Little More About Me</h3>
 
-<img align="right" alt="pic" width="240" src="./assets/mycunderstanm.png">
+<img align="right" alt="pic" width="240" src="./assets/mycunderstanm.png"></br>
 
  𖦹 I enjoy being around more experienced people.</br>
  𖦹 My hobby is photography. </br>
@@ -37,7 +37,6 @@ To my joy my desire was not wrong, at first I studied as a programmer, but then 
   <a href="https://open.spotify.com/user/31roy6muodncuoboe7ycdauitcoq?si=e0c571563d4642ba" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-11-432546.png?f=webp" width="40px" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&to=marinmarina2006@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="40px"/>
   </a>
@@ -55,3 +54,8 @@ To my joy my desire was not wrong, at first I studied as a programmer, but then 
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,golang,grpc,postgresql,mysql,docker,wsl,html,css,npm,postman,python,jupyter,wsl,&theme=dark" />
 </div>
 <br/>
+
+
+
+
+
