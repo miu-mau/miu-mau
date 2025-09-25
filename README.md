@@ -12,7 +12,7 @@
 
 <div align="justify">
 
-My name is Marina Arutyunyan and I am a student `Backend-developer` at the `ITHUB academy`. My dive into this area started spontaneously: closer to 15, when I was taking exams and choosing a future profession, I stopped at IT, although in my circle and family no one had ever done it, I still felt sincere interest in it and risked doing it and actually very happy about it. 
+My name is Marina Harutyunyan and I am a student `Backend-developer` at the `ITHUB academy`. My dive into this area started spontaneously: closer to 15, when I was taking exams and choosing a future profession, I stopped at IT, although in my circle and family no one had ever done it, I still felt sincere interest in it and risked doing it and actually very happy about it. 
 
 As I said, fortunately for me, my wish was not wrong. At first I studied programming, but then I decided that for the moment `Back-end` would be more interesting for me and I changed my major. Now I’m 19 years old and I am in my fourth year of college, and in the future I am going to go to university to expand my knowledge and get more education. I am quite ambitious and hope that in the future I will be an excellent specialist!
 
@@ -27,7 +27,7 @@ As I said, fortunately for me, my wish was not wrong. At first I studied program
 
 
 <!-- A Little More About Me -->
-<img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
+<img align="right" width="300" alt="mycunderstanm" src="https://github.com/user-attachments/assets/595b9c14-e737-4ee1-9e52-24acebc44514" /></br>
 
  <h3 align="center">A Little More About Me</h3>
 
